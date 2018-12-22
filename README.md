@@ -10,7 +10,7 @@ An MT4 Expert Advisor built for [TDesk](http://www.stevehopwoodforex.com/phpBB3/
 
 3. In the U.S. there are different margin requirements for each pair. This EA has the ability to automatically calculate lot sizes based on this and other variables.
 
-![](https://raw.githubusercontent.com/LonnieCoffman/OandaTDeskDrone/master/Dashboard.png)
+<img src="https://raw.githubusercontent.com/LonnieCoffman/OandaTDeskDrone/master/Dashboard.png" width="600" />
 
 ## Getting Started
 
